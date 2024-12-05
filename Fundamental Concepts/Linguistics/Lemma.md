@@ -1,0 +1,1 @@
+The standard semantic root of a set of words.

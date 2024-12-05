@@ -1,0 +1,25 @@
+- Description
+	- Ultimate goal: predict class $\hat{C}$ by estimating $P(C_k|x)$ for each class $C_k$ on observation $x$, and determine the $C_k$ that is most likely given $x$ (i.e. return $\hat{C}=\text{argmax}_{C_k}P(C_k|x)$).
+	- Without making any assumptions, we can say:
+		- Use Bayes' rule to figure this out. Since the denominator $P(x)$ doesn't affect the result of argmax, drop it. Now you have $\hat{C}=\text{argmax}_{C_k}P(x|C_k)P(C_k)$.
+			- (i.e. we can find $\hat{C}$ from just )
+		- The observation is really just its sequence of features:
+			- $\hat{C}=\text{argmax}_{C_k}P(x_1,x_2,...|C_k)P(C_k)$
+	- The **Naive Bayes assumption** is now taken to make it possible to calculate $P(x|C_k)$ - the assumption that all features $j$ are independent.
+		- $\hat{C}=\text{argmax}_{C_k}P(C_k)\prod_{j=1}^p P(x_j|C_k)$
+		- It's now reasonable to calculate each of these
+			- $P(C_k)$ is the probability that a randomly chosen point is in the class.
+			- $P(x_j|C_k)$ can be interpreted a couple ways:
+				- **Bernoulli NB**: The probability of having feature $x_j$ show up at all (i.e. the feature is binary for an observation) within this class.
+					- In NLP: the fraction of documents (observations) that contain this word (feature) at all.
+				- **Multinomial NB**: The sum of $x_j$ within the class, normalized to the sum of all features within the class. 
+					- In NLP: the fraction of words across all documents in the class that are this word (i.e. the number of appearances of the word, normalized to the size of the class)
+- Paradigm
+	- [Generative Model](Algorithms/Models/Supervised/Classification%20Paradigms/Generative%20Model.md)
+- Assumptions
+	- $P(x_1, x_2, x_3,... | C_k) = P(x_1| C_k)P(x_2| C_k)P(x_3| C_k)...$
+		- In other words, for each class, NBC assumes that given membership in that class, all features are independent.
+		- Intuitively, this represents the 
+		- This doesn't necessarily imply spherical distributions, since features can still have different variances and may not even necessarily be Gaussian. It's just the independence aspect.
+- Training
+	- Learn $P(C_k)$ and $P(x|C_k)$ by directly calculating from data.

@@ -1,0 +1,3 @@
+- Definition: $P(A,B) = P(A)P(B)$.
+- Two events are independent if the occurrence of one has nothing to do with occurrence of the other.
+- Stronger than a 

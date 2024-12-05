@@ -1,0 +1,1 @@
+Like [LSTM (Long Short-Term Memory)](Algorithms/Models/ANN/Components/Layers/LSTM%20(Long%20Short-Term%20Memory).md).

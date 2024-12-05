@@ -1,0 +1,1 @@
+The central [Morpheme](Fundamental%20Concepts/Linguistics/Morpheme.md) of a word, to which [Affix](Fundamental%20Concepts/Linguistics/Affix.md)es can be added.

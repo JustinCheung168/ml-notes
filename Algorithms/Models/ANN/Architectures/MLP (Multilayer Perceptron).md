@@ -1,0 +1,1 @@
+A simple feedforward stack of [Dense](Algorithms/Models/ANN/Components/Layers/Dense.md) layers.

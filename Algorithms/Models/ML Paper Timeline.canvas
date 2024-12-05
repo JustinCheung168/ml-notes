@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"6d3330f242aac4a3","type":"group","x":-2720,"y":690,"width":10280,"height":1030,"color":"6","label":"CNN"},
+		{"id":"65106b88519ef598","type":"group","x":-2720,"y":1840,"width":10280,"height":1030,"color":"3","label":"NLP"},
+		{"id":"90c0e6e47caa605f","type":"group","x":-2720,"y":-480,"width":10280,"height":1030,"color":"5","label":"General"},
+		{"id":"dff1182633a6503c","type":"group","x":-880,"y":-560,"width":560,"height":4560,"label":"2012"},
+		{"id":"466486c6acbe0f3f","type":"group","x":-320,"y":-560,"width":560,"height":4560,"label":"2013"},
+		{"id":"ca25561458d1126b","type":"group","x":240,"y":-560,"width":560,"height":4560,"label":"2014"},
+		{"id":"570551e59530271c","type":"group","x":800,"y":-560,"width":560,"height":4560,"label":"2015"},
+		{"id":"f88d7cc1de141448","type":"group","x":1360,"y":-560,"width":560,"height":4560,"label":"2016"},
+		{"id":"069624904827a7bc","type":"group","x":1920,"y":-560,"width":560,"height":4560,"label":"2017"},
+		{"id":"914b69b6e1308e19","type":"group","x":2480,"y":-560,"width":560,"height":4560,"label":"2018"},
+		{"id":"0f9c4c9b479b5651","type":"group","x":3040,"y":-560,"width":560,"height":4560,"label":"2019"},
+		{"id":"5fda86e466715cbb","type":"group","x":3600,"y":-560,"width":560,"height":4560,"label":"2020"},
+		{"id":"f28dc8640eaf2a4b","type":"group","x":4160,"y":-560,"width":560,"height":4560,"label":"2021"},
+		{"id":"8845f29883c00993","type":"group","x":4720,"y":-560,"width":560,"height":4560,"label":"2022"},
+		{"id":"9bcb3efa40f84c70","type":"group","x":5280,"y":-560,"width":560,"height":4560,"label":"2023"},
+		{"id":"52a2f2fa3af5d7da","type":"group","x":5840,"y":-560,"width":560,"height":4560,"label":"2024"},
+		{"id":"cba9d5b257864e1e","type":"group","x":6400,"y":-560,"width":560,"height":4560,"label":"2025"},
+		{"id":"1d5f8c567a8c117e","type":"file","file":"Algorithms/Models/ANN/Architectures/CNN/SENet.md","x":2720,"y":-1200,"width":400,"height":400},
+		{"id":"383902623ce53ce9","type":"file","file":"Algorithms/Models/ANN/Architectures/CNN/LeNet.md","x":-1360,"y":770,"width":400,"height":400},
+		{"id":"33f9a6ccbfb03b61","type":"file","file":"Algorithms/Models/ANN/Architectures/CNN/Xception.md","x":2000,"y":770,"width":400,"height":400},
+		{"id":"f56c87e2c91fe2b9","type":"file","file":"Algorithms/Models/ANN/Architectures/CNN/SENet.md","x":3120,"y":770,"width":400,"height":400},
+		{"id":"826ac5214a298d79","type":"file","file":"Algorithms/Models/ANN/Architectures/CNN/AlexNet.md","x":-800,"y":770,"width":400,"height":400},
+		{"id":"09ab750cad31d17f","type":"file","file":"Algorithms/Models/ANN/Architectures/CNN/GoogLeNet.md","x":320,"y":770,"width":400,"height":400},
+		{"id":"08585cc5c03bd97a","type":"file","file":"Algorithms/Models/ANN/Architectures/CNN/ResNet.md","x":880,"y":770,"width":400,"height":400},
+		{"id":"fe3df464d473da6a","type":"file","file":"Algorithms/Models/ANN/Architectures/CNN/VGGNet.md","x":880,"y":1250,"width":400,"height":400}
+	],
+	"edges":[]
+}

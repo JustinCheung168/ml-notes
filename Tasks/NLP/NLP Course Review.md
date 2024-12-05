@@ -1,0 +1,31 @@
+EN.605.646
+
+- Module 1
+	- [Text Normalization](Tasks/NLP/Text%20Normalization/Text%20Normalization.md)
+		- [Tokenization](Tasks/NLP/Text%20Normalization/Tokenization.md)
+- Module 2
+	- [LM (Language Model)](Tasks/NLP/Language%20Models/LM%20(Language%20Model).md)
+- Module 3
+	- [IR (Information Retrieval)](Tasks/NLP/Tasks/IR%20(Information%20Retrieval).md)
+- Module 4
+	- [Text Classification](Tasks/NLP/Tasks/Text%20Classification.md)
+		- [NBC (Naive Bayes Classifier)](Algorithms/Models/Supervised/General/NBC%20(Naive%20Bayes%20Classifier).md)
+- Module 5
+	- [Text Classification](Tasks/NLP/Tasks/Text%20Classification.md) (continued)
+		- [Logistic Regression](Algorithms/Models/Supervised/General/Logistic%20Regression.md)
+		- [NN (Neural Networks)](Algorithms/Models/ANN/NN%20(Neural%20Networks).md)
+- Module 6
+	- [Semantic Analysis](Tasks/NLP/Semantic%20Analysis/Semantic%20Analysis.md)
+- Module 7
+	- [Sequence Labeling](Tasks/NLP/Tasks/Sequence%20Labeling.md)
+		- [NER (Named Entity Recognition)](Tasks/NLP/Tasks/NER%20(Named%20Entity%20Recognition).md)
+- Module 8
+	- [Syntax](Tasks/NLP/Syntax.md)
+- Module 9
+	- [MT (Machine Translation)](Tasks/NLP/Tasks/MT%20(Machine%20Translation).md)
+- Module 10
+	- [WSD (Word Sense Disambiguation)](Tasks/NLP/Tasks/WSD%20(Word%20Sense%20Disambiguation).md)
+- Module 11
+	- (no new content)
+- Module 12
+	- 

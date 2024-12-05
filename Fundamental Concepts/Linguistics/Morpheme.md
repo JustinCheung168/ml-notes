@@ -1,0 +1,1 @@
+The smallest meaning-bearing units of words.

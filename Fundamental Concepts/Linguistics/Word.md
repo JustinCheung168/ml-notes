@@ -1,0 +1,1 @@
+When we say "word" in NLP, it may also refer to a symbol or a character.

@@ -1,0 +1,2 @@
+A singular matrix is a square matrix that isn't [Invertible](Fundamental%20Concepts/Linear%20Algebra/Invertibility/Invertible.md).
+It's easy to tell if this is the case, because the [Determinant](Fundamental%20Concepts/Linear%20Algebra/Determinant.md) of a singular matrix is 0.

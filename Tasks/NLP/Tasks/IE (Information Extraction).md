@@ -1,0 +1,2 @@
+The very broad task of extracting useful information from a body of text.
+One way to formally capture this idea is the task of [Knowledge Base Population](Tasks/NLP/Tasks/Knowledge%20Base%20Population.md).

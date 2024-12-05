@@ -1,0 +1,1 @@
+An abbreviated form of a word, like the 're in you're.

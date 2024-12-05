@@ -1,0 +1,1 @@
+The mathematical definition of a model, mapping features to likelihood.

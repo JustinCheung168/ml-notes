@@ -1,0 +1,1 @@
+A Keras class for models of sequential layers.
